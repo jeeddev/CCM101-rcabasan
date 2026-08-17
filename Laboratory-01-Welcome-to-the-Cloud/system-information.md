@@ -1,6 +1,6 @@
 # System Information
-* Linux Distribution: (ilagay mo dito yung lumabas sa terminal)
-* Kernel Version: (ilagay mo dito)
-* CPU Information: (ilagay mo dito)
-* Total Memory: (ilagay mo dito)
-* Available Disk Space: (ilagay mo dito)
+* Linux Distribution: Ubuntu 24.04.4 LTS (Noble Numbat)
+* Kernel Version: 6.8.0-136-generic
+* CPU Information: Intel Xeon E312xx (Sandy Bridge, IBRS update) - x86_64 (1 CPU)
+* Total Memory: 1.9Gi
+* Available Disk Space: 13G (on root /)
