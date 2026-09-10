@@ -1,12 +1,13 @@
 # Mission Overview
-This laboratory activity focuses on transitioning from traditional virtualization to containerization by deploying a live, containerized web server.
+In this mission, we transition from traditional virtualization to containerization by acting as a Cloud-Native Engineer for CloudNova Technologies. The goal is to deploy a live, containerized Nginx web server using Docker to demonstrate how containers offer faster boot times and better resource efficiency compared to traditional Virtual Machines.
 
 # Objectives
 * Differentiate between traditional Virtual Machines (VMs) and Containers.
-* Access a Docker-enabled cloud environment.
-* Execute fundamental Docker CLI commands.
-* Pull, run, manage, and terminate a containerized Nginx application.
-* Create technical documentation using Markdown.
+* Access a Docker-enabled cloud environment using KillerCoda.
+* Execute fundamental Docker CLI (Command Line Interface) commands.
+* Pull, run, manage, and terminate a containerized application (Nginx).
+* Create professional technical documentation of container operations using Markdown.
+* Continue developing a well-organized GitHub Cloud Computing Portfolio.
 
 # Docker Commands Executed
 * `docker --version`
@@ -20,7 +21,7 @@ This laboratory activity focuses on transitioning from traditional virtualizatio
 * `docker rm my-nginx`
 
 # Skills Learned
-(Write 1-2 sentences here about learning how to deploy and manage containers.)
+I learned how to pull container images from Docker Hub and map host ports to container ports to expose web services to the outside network. I also learned how to manage the lifecycle of a container, from running it in detached mode to safely stopping and removing it.
 
 # Challenges Encountered
-(Write 1-2 sentences here about any difficulties you faced, such as screenshotting or command typos.)
+The main challenge was understanding how port mapping works, specifically differentiating between the host port (8080) and the internal container port (80).
